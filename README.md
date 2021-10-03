@@ -5,8 +5,7 @@ Please add your <b>google-services.json</b> inside the <b>app</b> folder in orde
 </p>
 
 <p>
-You can checkout my medium article for more details
-[Link](https://medium.com/@avichare2008/jetpack-compose-and-firebase-integration-4012811861f7)
+You can checkout my <a href="https://medium.com/@avichare2008/jetpack-compose-and-firebase-integration-4012811861f7"> Medium article </a> for more details
 </p>
 
 ## Screenshots
