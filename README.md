@@ -4,6 +4,10 @@ This is a demo Android Jetpack Comose application. Here we are showing how to co
 Please add your <b>google-services.json</b> inside the <b>app</b> folder in order to link your Android project to the Firebase project.
 </p>
 
+<p>
+You can checkout my medium article for more details
+[Link](https://medium.com/@avichare2008/jetpack-compose-and-firebase-integration-4012811861f7)
+</p>
 
 ## Screenshots
 <p align="center">
